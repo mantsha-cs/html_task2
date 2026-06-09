@@ -1,7 +1,7 @@
-# task 1
-Name=Atul kumar
+# task 2
+
 Description:
- This project is a simple webpage using HTML display  "HELLO WPRLD".
+ This project is a simple webpage  creted using HTML. 
 
 How to RUN:
 Open index.html in any web  browser.
